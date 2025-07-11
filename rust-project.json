@@ -1,0 +1,13 @@
+{
+  "sysroot_src": "/usr",
+  "crates": [
+    {
+      "root_module": "src/b.rs",
+      "edition": "2021",
+      "deps": [],
+      "cfg": [],
+      "env": {},
+      "is_workspace_member": true
+    }
+  ]
+}
